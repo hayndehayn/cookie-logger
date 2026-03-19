@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Binary files
+*.exe
+
+# Build artifacts
+build/
+dist/
+
+# Temporary files
+*.tmp
+*_cookies.txt
