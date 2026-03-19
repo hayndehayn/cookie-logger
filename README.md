@@ -1,5 +1,6 @@
 ## This tool is designed for **security research and educational purposes** to demonstrate browser cookie storage and encryption mechanisms.
 
+[!IMPORTANT]
 Author is not responsible for any misuse or damage caused by this tool. By using this tool, you agree to use it only on systems you own or have explicit written authorization to test.
 
 ![Results](tg1.jpg)
